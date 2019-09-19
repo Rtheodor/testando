@@ -72,31 +72,12 @@ nav.navbar-transparente{
 	
 }
 
-.btn-roxo{
-	background:#7c25f8;
-}
-
-.btn-roxo:hover{
-	background-color: #6207e3;
-	color:white;
-}
-
-.btn-branco{
-	border:2px solid white;
-
-}
-
-.btn-branco:hover{
-	background-color: white;
-	color:black;
-
-}
 
 /*======= secao servico ======*/
 #servicos{
 	background:white;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 
 .albuns{
