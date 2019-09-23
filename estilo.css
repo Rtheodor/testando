@@ -80,9 +80,7 @@ nav.navbar-transparente{
 	padding-bottom: 0px;
 }
 
-.albuns{
-	padding: 10px 0px 10px 0px;
-}
+
 
 
 /*======= recursos ======*/
@@ -102,7 +100,7 @@ nav.navbar-transparente{
 
 /*======= Rodape ======*/
 footer{
-	background:#000;
+	background:#000000;
 	padding: 50px 0px 20px 0px;
 	position: relative;
 }
